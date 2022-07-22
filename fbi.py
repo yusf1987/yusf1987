@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Facebook Information 
+     yusf karwan 
 '''
 ###################################################################
 #                             COLOR
@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
+    Author     yusf
     Name       Facebook Information
     Version    Full Version
     Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Jabber     yusfking199@gmail.com
 
 * if you find any errors or problems , please contact
   author
